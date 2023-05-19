@@ -31,7 +31,7 @@ Follow the steps below to get started with this code:
 1. Clone this repository to your local machine or download the ZIP file and extract its contents.
 
 ```shell
-https://github.com/Rahaf-Mansour/RGB-bit-conversion.git
+git clone https://github.com/Rahaf-Mansour/RGB-bit-conversion.git
 ```
 
 2. Install the necessary dependencies and libraries, including a GUI library of your choice.
