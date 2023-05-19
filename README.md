@@ -31,7 +31,7 @@ Follow the steps below to get started with this code:
 1. Clone this repository to your local machine or download the ZIP file and extract its contents.
 
 ```shell
-
+https://github.com/Rahaf-Mansour/RGB-bit-conversion.git
 ```
 
 2. Install the necessary dependencies and libraries, including a GUI library of your choice.
@@ -65,8 +65,7 @@ Follow the steps below to get started with this code:
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please submit a pull request or open an issue.
 
 ## License
-
-<!-- [MIT License](LICENSE) -->
+This project is licensed under the MIT License. See the [[LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)] file for details.
 
 ## Acknowledgments
 
